@@ -42,11 +42,6 @@ Em geral, o code review é realizado por meio de ferramentas de controle de vers
 
 Na prática, em equipes bem organizadas, o code review é uma etapa obrigatória antes de mesclar as alterações em um projeto. Ele garante que o código seja revisado por pares, que possíveis problemas sejam identificados e que a qualidade do código seja mantida ao longo do tempo.
 
-## Tópicos Abordados
+Nas próximas seções, vamos explorar esses conceitos em mais detalhes, discutindo as melhores práticas de colaboração em equipe, estratégias de branching e como usar ferramentas como GitHub e GitLab para gerenciar repositórios e colaborar de forma eficiente.
 
-- GitHub/GitLab: funcionalidades e boas práticas.
-- Pull requests e code review: como colaborar de forma eficiente.
-- Estratégias de branching (GitFlow, trunk-based): organização do desenvolvimento.
-- Projetos práticos em equipe: aplicação dos conceitos aprendidos.
-
-O GitHub é uma
+<span style="display: flex; justify-content: space-between;"><span>[&lt; Início](../ 'Início')</span> <span>[Plataformas de hospedagem Git &gt;](plataformas-git.html 'Próximo')</span></span>
