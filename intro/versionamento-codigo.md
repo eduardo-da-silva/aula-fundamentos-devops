@@ -36,6 +36,18 @@ Existem várias práticas e convenções que podem ser adotadas para facilitar o
 
 Essas práticas ajudam a manter o código organizado, facilitam a colaboração entre desenvolvedores e garantem a consistência do histórico de mudanças ao longo do tempo.
 
-No âmbito do DevOps, a adoção de práticas de versionamento de código é essencial para promover a integração contínua, entrega contínua e colaboração eficiente entre as equipes de desenvolvimento e operações.
+## Práticas de SemVer
+
+O [SemVer](https://semver.org/) (Semantic Versioning) é uma convenção de versionamento que define um padrão para atribuir versões a um software com base nas mudanças realizadas. O SemVer é composto por três números separados por pontos: `MAJOR.MINOR.PATCH`.
+
+- `MAJOR`: incrementado quando são feitas alterações incompatíveis com versões anteriores.
+- `MINOR`: incrementado quando são adicionadas funcionalidades de forma retrocompatível.
+- `PATCH`: incrementado quando são feitas correções de bugs de forma retrocompatível.
+
+Um exemplo de uso do SemVer seria:
+
+- `1.2.3`: versão `1` (major), `2` (minor) e `3` (patch).
+
+Essa convenção facilita a comunicação entre desenvolvedores, usuários e ferramentas, permitindo que todos entendam o impacto das mudanças em uma nova versão do software. Por exemplo, ao seguir o SemVer, os usuários podem saber se uma atualização contém apenas correções de bugs (`PATCH`), novas funcionalidades (`MINOR`) ou mudanças incompatíveis (`MAJOR`). No caso de uma API pública, por exemplo, sabe-se que houver uma alteração no `MAJOR`, a API foi modificada de forma incompatível com a versão anterior.
 
 <span style="display: flex; justify-content: space-between;"><span>[&lt; Início](. 'Início')</span> <span>[Git Básico &gt;](git-basico.html 'Próximo')</span></span>
