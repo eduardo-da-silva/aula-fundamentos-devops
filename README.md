@@ -28,15 +28,15 @@ A disciplina fornece uma base sólida para que os estudantes possam automatizar 
 ### Semana 1-2: Introdução ao DevOps e Versionamento de Código
 
 - Fundamentos de DevOps e sua importância
+- Práticas de versionamento de código
 - Git básico: instalação, configuração e comandos essenciais
-- Branches, merges e resolução de conflitos
-- Práticas de versionamento e conventional commits
+- Conventional commits
 
 ### Semana 3-4: Gestão de Repositórios e Colaboração
 
-- GitHub/GitLab: funcionalidades e boas práticas
+- Plataformas de hospedagem de repositórios Git (GitHub, GitLab, Bitbucket)
+- Estratégias de branching
 - Pull requests e code review
-- Estratégias de branching (GitFlow, trunk-based)
 - Projetos práticos em equipe
 
 ### Semana 5-6: Automação e CI/CD
@@ -100,3 +100,7 @@ A disciplina fornece uma base sólida para que os estudantes possam automatizar 
    1.1. [Versionamento de Código](intro/versionamento-codigo.md)  
    1.2. [Git Básico](intro/git-basico.md)  
    1.3. [Convencional Commits](intro/conventional-commits.md)
+2. [Aula 2 - Gestão de Repositórios e Colaboração](collaboration/intro.md)  
+   2.1. [Plataformas de hospedagem Git](collaboration/plataformas-git.md)  
+   2.2. [Estratégias de Branching](collaboration/branching.md)  
+   2.3. [Pull Requests e Code Review](collaboration/pull-requests.md)
