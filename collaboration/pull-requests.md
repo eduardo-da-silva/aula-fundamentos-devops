@@ -65,4 +65,4 @@ Para obter os melhores resultados com o code review, é importante seguir alguma
 - **Respeite o tempo**: Respeite o tempo dos seus colegas e evite sobrecarregá-los com revisões extensas ou desnecessárias. Priorize os comentários mais relevantes e úteis para melhorar o código.
 - **Aprenda com o feedback**: Encare o code review como uma oportunidade de aprendizado e crescimento. Esteja aberto a receber feedback, aprender com os comentários dos seus colegas e aprimorar suas habilidades técnicas.
 
-<span style="display: flex; justify-content: space-between;"><span>[&lt; Estratégias de Branching](estrategias-branching.html 'Anterior')</span> <span>[Sumário &gt;](../ 'Sumário')</span></span>
+<span style="display: flex; justify-content: space-between;"><span>[&lt; Estratégias de Branching](estrategias-branching.html 'Anterior')</span> <span>[Projeto em grupo &gt;](projeto-em-grupo.html 'Próximo')</span></span>
