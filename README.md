@@ -39,7 +39,7 @@ A disciplina fornece uma base sólida para que os estudantes possam automatizar 
 - Pull requests e code review
 - Projetos práticos em equipe
 
-### Semana 5-6: Automação e CI/CD
+### Semana 5-6: Integração Contínua
 
 - Introdução à integração contínua
 - Configuração de pipelines CI/CD
@@ -103,4 +103,6 @@ A disciplina fornece uma base sólida para que os estudantes possam automatizar 
 2. [Aula 2 - Gestão de Repositórios e Colaboração](collaboration/intro.md)  
    2.1. [Plataformas de hospedagem Git](collaboration/plataformas-git.md)  
    2.2. [Estratégias de Branching](collaboration/branching.md)  
-   2.3. [Pull Requests e Code Review](collaboration/pull-requests.md)
+   2.3. [Pull Requests e Code Review](collaboration/pull-requests.md)  
+   2.4. [Projeto em Grupo](collaboration/projeto-em-grupo.md)
+3. [Aula 3 - Integração contínua](ci/intro.md)
